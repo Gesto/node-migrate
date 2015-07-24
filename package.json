@@ -20,5 +20,8 @@
   },
   "scripts": {
     "test": "mocha"
+  },
+  "dependencies": {
+    "babel": "^5.8.3"
   }
 }
